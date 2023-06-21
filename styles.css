@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(0,255,0);
+}
+#box1{
+    background:white;
+    width:300px;
+    height:40px;
+    border:dotted;
+    margin:10px;
+}
+#box2 {
+       background:pink;
+    width:430px;
+    height:50px;
+    border:hidden;
+    margin:15px;
+}
+    #box3{
+        background:gold;
+        width:69px;
+        height:76px;
+        border:solid;
+        margin:22px;
+}
